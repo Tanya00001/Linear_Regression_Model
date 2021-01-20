@@ -27,6 +27,7 @@ lm(salary1$salary ~ salary1$years_of_experience) #Through this you will get inte
 # 5                   	80,000
 # 6	                    90,000
 
+
 # intercept(c)=-31128
 # slope(m)=27406
 
